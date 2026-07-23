@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1660" height="5024" viewBox="0 0 1660 5024">
+<defs>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#000000" flood-opacity="0.12"/>
+  </filter>
+</defs>
+<rect width="1660" height="5024" fill="#ffffff"/>
+<text x="830" y="66" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="46" font-weight="700" fill="#111">Knowledge Map / 知识地图</text>
+<text x="830" y="112" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#666">Detailed concept board / 更大的知识看板：类别 → 主题 → 细节</text>
+<g filter="url(#shadow)">
+  <rect x="70" y="150" width="1520" height="560" rx="22" fill="#f7ec70" fill-opacity="0.22" stroke="#746600" stroke-width="3"/>
+  <rect x="92" y="172" width="1476" height="76" rx="18" fill="#746600" fill-opacity="0.14" stroke="none"/>
+<text x="112" y="220" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="36" font-weight="700" fill="#746600">Systems Programming / 系统编程</text>
+<text x="118" y="290" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="30" font-weight="700" fill="#1f1f1f">• Zig / Zig</text>
+<text x="162" y="326" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Build system / 构建系统</text>
+<text x="206" y="357" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#444">· Compilation speed / 编译速度</text>
+<text x="206" y="385" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#444">· Incremental rebuilds / 增量重建</text>
+<text x="206" y="413" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#444">· Developer experience / 开发者体验</text>
+<text x="162" y="441" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– IO model / IO 模型</text>
+<text x="206" y="472" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#444">· Single-threaded / 单线程</text>
+<text x="206" y="500" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#444">· Multi-threaded / 多线程</text>
+<text x="206" y="528" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#444">· Event loop / 事件循环</text>
+<text x="118" y="572" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="30" font-weight="700" fill="#1f1f1f">• SQLite / SQLite</text>
+<text x="162" y="608" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Durable workflows / 持久化工作流</text>
+<text x="206" y="639" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#444">· Simplicity / 简洁</text>
+<text x="206" y="667" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#444">· Reliability / 可靠性</text>
+</g>
+<g filter="url(#shadow)">
+  <rect x="70" y="752" width="1520" height="560" rx="22" fill="#d6f76a" fill-opacity="0.22" stroke="#4f6d00" stroke-width="3"/>
+  <rect x="92" y="774" width="1476" height="76" rx="18" fill="#4f6d00" fill-opacity="0.14" stroke="none"/>
+<text x="112" y="822" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="36" font-weight="700" fill="#4f6d00">AI Infrastructure / AI 基础设施</text>
+<text x="118" y="892" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="30" font-weight="700" fill="#1f1f1f">• Mistral / Mistral</text>
+<text x="162" y="928" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– On-prem deployment / 本地部署</text>
+<text x="206" y="959" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#444">· Privacy / 隐私</text>
+<text x="206" y="987" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#444">· Sovereignty / 主权</text>
+<text x="206" y="1015" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#444">· Regulated industries / 受监管行业</text>
+<text x="162" y="1043" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– GPU inference / GPU 推理</text>
+<text x="206" y="1074" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#444">· Latency / 延迟</text>
+<text x="206" y="1102" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#444">· Cost control / 成本控制</text>
+<text x="206" y="1130" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#444">· Throughput / 吞吐量</text>
+<text x="162" y="1158" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Reasoning models / 推理模型</text>
+<text x="206" y="1189" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#444">· Quality / 质量</text>
+<text x="206" y="1217" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#444">· Competitive lag / 竞争滞后</text>
+<text x="118" y="1261" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="30" font-weight="700" fill="#1f1f1f">• Tiny-vLLM / Tiny-vLLM</text>
+</g>
+<g filter="url(#shadow)">
+  <rect x="70" y="1354" width="1520" height="560" rx="22" fill="#c6a2ff" fill-opacity="0.22" stroke="#5f2ea8" stroke-width="3"/>
+  <rect x="92" y="1376" width="1476" height="76" rx="18" fill="#5f2ea8" fill-opacity="0.14" stroke="none"/>
+<text x="112" y="1424" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="36" font-weight="700" fill="#5f2ea8">Protocols &amp; Tooling / 协议与工具</text>
+<text x="118" y="1494" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="30" font-weight="700" fill="#1f1f1f">• MCP / MCP</text>
+<text x="162" y="1530" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Tool integration / 工具集成</text>
+<text x="206" y="1561" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#444">· Standardization / 标准化</text>
+<text x="206" y="1589" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#444">· Reliability / 可靠性</text>
+<text x="206" y="1617" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#444">· Ecosystem adoption / 生态采用</text>
+<text x="162" y="1645" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Context bloat / 上下文膨胀</text>
+<text x="206" y="1676" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#444">· Prompt length / 提示长度</text>
+<text x="206" y="1704" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#444">· Operational overhead / 运维开销</text>
+<text x="118" y="1748" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="30" font-weight="700" fill="#1f1f1f">• Prompt injection / 提示注入</text>
+<text x="162" y="1784" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Security / 安全</text>
+<text x="206" y="1815" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#444">· Data loss / 数据破坏</text>
+<text x="206" y="1843" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#444">· Workflow risk / 工作流风险</text>
+</g>
+<g filter="url(#shadow)">
+  <rect x="70" y="1956" width="1520" height="560" rx="22" fill="#f7a1a1" fill-opacity="0.22" stroke="#8a3030" stroke-width="3"/>
+  <rect x="92" y="1978" width="1476" height="76" rx="18" fill="#8a3030" fill-opacity="0.14" stroke="none"/>
+<text x="112" y="2026" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="36" font-weight="700" fill="#8a3030">Research &amp; Science / 科研与研究</text>
+<text x="118" y="2096" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="30" font-weight="700" fill="#1f1f1f">• Reproducibility / 可复现性</text>
+<text x="162" y="2132" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Method / 方法</text>
+<text x="162" y="2163" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Data quality / 数据质量</text>
+<text x="162" y="2194" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Evidence / 证据</text>
+<text x="118" y="2241" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="30" font-weight="700" fill="#1f1f1f">• Interoperability / 互操作性</text>
+<text x="162" y="2277" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Robotics data / 机器人数据</text>
+<text x="162" y="2308" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Benchmarks / 基准</text>
+<text x="118" y="2355" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="30" font-weight="700" fill="#1f1f1f">• Reasoning models / 推理模型</text>
+<text x="162" y="2391" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Roleplay / 角色扮演</text>
+<text x="162" y="2422" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Generalization / 泛化</text>
+</g>
+<g filter="url(#shadow)">
+  <rect x="70" y="2558" width="1520" height="560" rx="22" fill="#95d8ff" fill-opacity="0.22" stroke="#0d4f73" stroke-width="3"/>
+  <rect x="92" y="2580" width="1476" height="76" rx="18" fill="#0d4f73" fill-opacity="0.14" stroke="none"/>
+<text x="112" y="2628" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="36" font-weight="700" fill="#0d4f73">Policy &amp; Economy / 政策与经济</text>
+<text x="118" y="2698" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="30" font-weight="700" fill="#1f1f1f">• Dead economy / 死经济理论</text>
+<text x="162" y="2734" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– AI automation / AI 自动化</text>
+<text x="162" y="2765" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Consumer demand / 消费需求</text>
+<text x="162" y="2796" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Second-order effects / 二阶影响</text>
+<text x="118" y="2843" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="30" font-weight="700" fill="#1f1f1f">• Funding rules / 拨款规则</text>
+<text x="162" y="2879" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Grants / 科研资助</text>
+<text x="162" y="2910" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Research / 科研</text>
+<text x="118" y="2957" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="30" font-weight="700" fill="#1f1f1f">• Layoffs / 裁员</text>
+<text x="162" y="2993" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– AI psychosis / AI 精神病</text>
+<text x="162" y="3024" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Business pressure / 商业压力</text>
+</g>
+<g filter="url(#shadow)">
+  <rect x="70" y="3160" width="1520" height="560" rx="22" fill="#ffcf91" fill-opacity="0.22" stroke="#8a5200" stroke-width="3"/>
+  <rect x="92" y="3182" width="1476" height="76" rx="18" fill="#8a5200" fill-opacity="0.14" stroke="none"/>
+<text x="112" y="3230" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="36" font-weight="700" fill="#8a5200">Hardware &amp; Devices / 硬件与设备</text>
+<text x="118" y="3300" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="30" font-weight="700" fill="#1f1f1f">• Framework 12 / Framework 12</text>
+<text x="162" y="3336" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Repairability / 可维修性</text>
+<text x="162" y="3367" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Performance / 性能</text>
+<text x="162" y="3398" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Modular design / 模块化设计</text>
+</g>
+<g filter="url(#shadow)">
+  <rect x="70" y="3762" width="1520" height="560" rx="22" fill="#b8f0cf" fill-opacity="0.22" stroke="#0f5e36" stroke-width="3"/>
+  <rect x="92" y="3784" width="1476" height="76" rx="18" fill="#0f5e36" fill-opacity="0.14" stroke="none"/>
+<text x="112" y="3832" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="36" font-weight="700" fill="#0f5e36">Open Source Products / 开源产品</text>
+<text x="118" y="3902" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="30" font-weight="700" fill="#1f1f1f">• Open source / 开源</text>
+<text x="162" y="3938" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Usability / 易用性</text>
+<text x="162" y="3969" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Practical value / 实用价值</text>
+<text x="162" y="4000" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Adoption / 采用</text>
+</g>
+<g filter="url(#shadow)">
+  <rect x="70" y="4364" width="1520" height="560" rx="22" fill="#ffd1f2" fill-opacity="0.22" stroke="#7a2b63" stroke-width="3"/>
+  <rect x="92" y="4386" width="1476" height="76" rx="18" fill="#7a2b63" fill-opacity="0.14" stroke="none"/>
+<text x="112" y="4434" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="36" font-weight="700" fill="#7a2b63">General AI / 通用 AI</text>
+<text x="118" y="4504" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="30" font-weight="700" fill="#1f1f1f">• Adoption / 采用</text>
+<text x="162" y="4540" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Workflow / 工作流</text>
+<text x="162" y="4571" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Productivity / 效率</text>
+<text x="162" y="4602" text-anchor="start" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" fill="#333">– Trade-offs / 取舍</text>
+</g>
+</svg>

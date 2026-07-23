@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1260" viewBox="0 0 1800 1260">
+<defs>
+  <linearGradient id="pageBg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#f7f9ff"/>
+    <stop offset="100%" stop-color="#fff8fb"/>
+  </linearGradient>
+  <radialGradient id="centerGrad" cx="45%" cy="35%" r="70%">
+    <stop offset="0%" stop-color="#4f8cff"/>
+    <stop offset="100%" stop-color="#174ee8"/>
+  </radialGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#1d2554" flood-opacity="0.16"/>
+  </filter>
+  <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#1d2554" flood-opacity="0.12"/>
+  </filter>
+</defs>
+<rect width="1800" height="1260" rx="36" fill="url(#pageBg)"/>
+<text x="900.0" y="68" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="54" font-weight="800" fill="#111827">Mind Map / 思维导图</text>
+<text x="900.0" y="112" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#667085">Fast overview of the report knowledge system / 快速理解本期报告的知识体系</text>
+<circle cx="900" cy="685" r="138" fill="url(#centerGrad)" filter="url(#shadow)"/>
+<circle cx="900" cy="685" r="158" fill="none" stroke="#c7d2fe" stroke-width="4" stroke-dasharray="10 14" opacity="0.8"/>
+<text x="900" y="663" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="36" font-weight="800" fill="#fff">Horizon</text>
+<text x="900" y="707" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="34" font-weight="800" fill="#fff">知识体系</text>
+<text x="900" y="747" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="21" font-weight="500" fill="#dbeafe">AI · Tools · Research</text>
+<path d="M 762 605 C 658 605, 658 260, 554 260" fill="none" stroke="#746600" stroke-width="5" stroke-linecap="round" stroke-opacity="0.42"/>
+<rect x="50.0" y="135.0" width="500" height="250" rx="28" fill="#f7ec70" fill-opacity="0.92" stroke="#746600" stroke-width="3.5" filter="url(#softShadow)"/>
+<rect x="68.0" y="153.0" width="464" height="68" rx="20" fill="#ffffff" fill-opacity="0.36" stroke="none"/>
+<text x="300" y="183.0" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" font-weight="800" fill="#111827">Systems Programming /</text>
+<text x="300" y="215.0" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" font-weight="800" fill="#111827">系统编程</text>
+<text x="88.0" y="251.0" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" font-weight="500" fill="#1f2937">• Zig / Zig</text>
+<text x="88.0" y="289.0" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" font-weight="500" fill="#1f2937">• SQLite / SQLite</text>
+<path d="M 900 605 C 900 605, 900 235, 900 235" fill="none" stroke="#4f6d00" stroke-width="5" stroke-linecap="round" stroke-opacity="0.42"/>
+<rect x="650.0" y="110.0" width="500" height="250" rx="28" fill="#d6f76a" fill-opacity="0.92" stroke="#4f6d00" stroke-width="3.5" filter="url(#softShadow)"/>
+<rect x="668.0" y="128.0" width="464" height="68" rx="20" fill="#ffffff" fill-opacity="0.36" stroke="none"/>
+<text x="900" y="158.0" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" font-weight="800" fill="#111827">AI Infrastructure / AI</text>
+<text x="900" y="190.0" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" font-weight="800" fill="#111827">基础设施</text>
+<text x="688.0" y="226.0" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" font-weight="500" fill="#1f2937">• Mistral / Mistral</text>
+<text x="688.0" y="264.0" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" font-weight="500" fill="#1f2937">• Tiny-vLLM / Tiny-vLLM</text>
+<path d="M 1038 605 C 1142 605, 1142 260, 1246 260" fill="none" stroke="#5f2ea8" stroke-width="5" stroke-linecap="round" stroke-opacity="0.42"/>
+<rect x="1250.0" y="135.0" width="500" height="250" rx="28" fill="#c6a2ff" fill-opacity="0.92" stroke="#5f2ea8" stroke-width="3.5" filter="url(#softShadow)"/>
+<rect x="1268.0" y="153.0" width="464" height="68" rx="20" fill="#ffffff" fill-opacity="0.36" stroke="none"/>
+<text x="1500" y="183.0" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" font-weight="800" fill="#111827">Protocols &amp; Tooling /</text>
+<text x="1500" y="215.0" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" font-weight="800" fill="#111827">协议与工具</text>
+<text x="1288.0" y="251.0" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" font-weight="500" fill="#1f2937">• MCP / MCP</text>
+<text x="1288.0" y="289.0" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" font-weight="500" fill="#1f2937">• Prompt injection / 提示注入</text>
+<path d="M 762 605 C 646 605, 646 675, 529 675" fill="none" stroke="#8a3030" stroke-width="5" stroke-linecap="round" stroke-opacity="0.42"/>
+<rect x="25.0" y="550.0" width="500" height="250" rx="28" fill="#f7a1a1" fill-opacity="0.92" stroke="#8a3030" stroke-width="3.5" filter="url(#softShadow)"/>
+<rect x="43.0" y="568.0" width="464" height="68" rx="20" fill="#ffffff" fill-opacity="0.36" stroke="none"/>
+<text x="275" y="598.0" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" font-weight="800" fill="#111827">Research &amp; Science /</text>
+<text x="275" y="630.0" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" font-weight="800" fill="#111827">科研与研究</text>
+<text x="63.0" y="666.0" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" font-weight="500" fill="#1f2937">• Reproducibility / 可复现性</text>
+<text x="63.0" y="704.0" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" font-weight="500" fill="#1f2937">• Interoperability / 互操作性</text>
+<text x="63.0" y="742.0" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" font-weight="500" fill="#1f2937">• Reasoning models / 推理模型</text>
+<path d="M 1038 605 C 1154 605, 1154 675, 1271 675" fill="none" stroke="#0d4f73" stroke-width="5" stroke-linecap="round" stroke-opacity="0.42"/>
+<rect x="1275.0" y="550.0" width="500" height="250" rx="28" fill="#95d8ff" fill-opacity="0.92" stroke="#0d4f73" stroke-width="3.5" filter="url(#softShadow)"/>
+<rect x="1293.0" y="568.0" width="464" height="68" rx="20" fill="#ffffff" fill-opacity="0.36" stroke="none"/>
+<text x="1525" y="598.0" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" font-weight="800" fill="#111827">Policy &amp; Economy / 政策与经济</text>
+<text x="1313.0" y="666.0" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" font-weight="500" fill="#1f2937">• Dead economy / 死经济理论</text>
+<text x="1313.0" y="704.0" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" font-weight="500" fill="#1f2937">• Funding rules / 拨款规则</text>
+<text x="1313.0" y="742.0" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" font-weight="500" fill="#1f2937">• Layoffs / 裁员</text>
+<path d="M 762 765 C 658 765, 658 1088, 554 1088" fill="none" stroke="#8a5200" stroke-width="5" stroke-linecap="round" stroke-opacity="0.42"/>
+<rect x="50.0" y="963.0" width="500" height="250" rx="28" fill="#ffcf91" fill-opacity="0.92" stroke="#8a5200" stroke-width="3.5" filter="url(#softShadow)"/>
+<rect x="68.0" y="981.0" width="464" height="68" rx="20" fill="#ffffff" fill-opacity="0.36" stroke="none"/>
+<text x="300" y="1011.0" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" font-weight="800" fill="#111827">Hardware &amp; Devices /</text>
+<text x="300" y="1043.0" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" font-weight="800" fill="#111827">硬件与设备</text>
+<text x="88.0" y="1079.0" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" font-weight="500" fill="#1f2937">• Framework 12 / Framework 12</text>
+<path d="M 900 765 C 900 765, 900 1115, 900 1115" fill="none" stroke="#0f5e36" stroke-width="5" stroke-linecap="round" stroke-opacity="0.42"/>
+<rect x="650.0" y="990.0" width="500" height="250" rx="28" fill="#b8f0cf" fill-opacity="0.92" stroke="#0f5e36" stroke-width="3.5" filter="url(#softShadow)"/>
+<rect x="668.0" y="1008.0" width="464" height="68" rx="20" fill="#ffffff" fill-opacity="0.36" stroke="none"/>
+<text x="900" y="1038.0" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" font-weight="800" fill="#111827">Open Source Products /</text>
+<text x="900" y="1070.0" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" font-weight="800" fill="#111827">开源产品</text>
+<text x="688.0" y="1106.0" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" font-weight="500" fill="#1f2937">• Open source / 开源</text>
+<path d="M 1038 765 C 1142 765, 1142 1088, 1246 1088" fill="none" stroke="#7a2b63" stroke-width="5" stroke-linecap="round" stroke-opacity="0.42"/>
+<rect x="1250.0" y="963.0" width="500" height="250" rx="28" fill="#ffd1f2" fill-opacity="0.92" stroke="#7a2b63" stroke-width="3.5" filter="url(#softShadow)"/>
+<rect x="1268.0" y="981.0" width="464" height="68" rx="20" fill="#ffffff" fill-opacity="0.36" stroke="none"/>
+<text x="1500" y="1011.0" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" font-weight="800" fill="#111827">General AI / 通用 AI</text>
+<text x="1288.0" y="1079.0" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" font-weight="500" fill="#1f2937">• Adoption / 采用</text>
+</svg>

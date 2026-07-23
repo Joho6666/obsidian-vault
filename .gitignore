@@ -1,0 +1,39 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+
+# Obsidian local workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+.trash/
+
+# Tool caches / agent state
+.smart-env/
+.claude/
+.agents/
+.claudian/
+.codex/
+
+# Dependencies / generated files
+node_modules/
+__pycache__/
+.venv/
+venv/
+site-packages/
+*.pyc
+*.pyd
+*.dll
+*.exe
+*.pack
+*.idx
+
+# Large archives / media not suitable for git cloud backup
+*.zip
+*.rar
+*.7z
+*.mp4
+*.mov
+*.mkv
+*.avi
